@@ -1,0 +1,3 @@
+C:/Users/isoli/CLionProjects/Haffman C++/cmake-build-debug/CMakeFiles/Haffman_C__.dir
+C:/Users/isoli/CLionProjects/Haffman C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/isoli/CLionProjects/Haffman C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
